@@ -5,7 +5,7 @@
       "group": "cards",
       "restart": "none",
       "prefserv": "sysUiEnableSpreadGesture",
-      "label": "spread gestures",
+      "label": "stack spread gestures",
       "help": "Enables two finger spread gesture for card stacks.",
       "key": "spreadGestures",
       "type": "ToggleButton",
