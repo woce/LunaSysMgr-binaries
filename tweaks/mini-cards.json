@@ -7,7 +7,7 @@
           "restart": "none",
           "prefserv": "sysUiEnableMiniCards",
           "label": "Enable Mini Cards",
-          "help": "Enable 2.x style mini cards, available by tapping below the active card.",
+          "help": "Enable 1.x style mini cards, available by tapping below the active card.",
           "key": "miniCards",
           "type": "ToggleButton",
           "value": false,
