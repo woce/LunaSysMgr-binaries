@@ -6,7 +6,7 @@
       "restart": "none",
       "prefserv": "sysUiEnableWaveLauncher",
       "label": "wave launcher",
-      "help": "Enables sideways swipe on the bottom of the screen to activate the wave launcher.",
+      "help": "Enables upwards slide on the side of the screen to activate the wave launcher.",
       "key": "waveLauncher",
       "type": "ToggleButton",
       "value": false
