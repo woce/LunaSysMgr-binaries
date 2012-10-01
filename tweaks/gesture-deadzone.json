@@ -1,0 +1,15 @@
+[
+  {
+    "category": "luna",
+    "prefs": [ {
+      "group": "gestures",
+      "restart": "none",
+      "prefserv": "sysUiEnableGestureDeadzone",
+      "label": "Enable Gesture Deadzone",
+      "help": "Enable a 15px deadzone around the edge of the screen in order to prevent touch events going to applications when switching or minimizing cards. NOTE: The deadzone will eat all tap events, so a double-tap is required to activate buttons inside it.",
+      "key": "deadzone",
+      "type": "ToggleButton",
+      "value": true
+    } ]
+  }
+]
